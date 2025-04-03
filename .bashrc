@@ -141,5 +141,5 @@ export DOTNET_CLI_TELEMETRY_OPTOUT=1
 source /home/rdelgado/.local/share/bash-completion/completions/deno.bash
 
 #DOTFILES
-alias dotfiles '/usr/bin/git --git-directory=$HOME/.files/ --work-tree=$HOME'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.files/ --work-tree=$HOME'
 
