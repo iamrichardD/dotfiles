@@ -143,3 +143,5 @@ source /home/rdelgado/.local/share/bash-completion/completions/deno.bash
 #DOTFILES
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.files/ --work-tree=$HOME'
 
+#CLAUDE CODE
+export CLAUDE_MODEL=claude-sonnet-4-20250514
