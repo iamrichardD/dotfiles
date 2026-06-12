@@ -145,3 +145,21 @@ alias dotfiles='/usr/bin/git --git-dir=$HOME/.files/ --work-tree=$HOME'
 
 #CLAUDE CODE
 export CLAUDE_MODEL=claude-sonnet-4-20250514
+export ANTHROPIC_MODEL="claude-sonnet-4-20250514"
+
+#FIRECRAWL.DEV
+# See file ...shhh
+
+#GOOGLE AI STUDIO API KEY
+# See file ...shhh
+
+#DOTAGENTS  https://github.com/iamrichardD/dotagents
+alias dotagents="git --git-dir=$HOME/.dotagents.git/ --work-tree=$HOME/"
+
+
+# Added by Antigravity CLI installer
+export PATH="/home/rdelgado/.local/bin:$PATH"
+
+#CREDENTIAL FILE
+source ~/.config/...shhh
+
